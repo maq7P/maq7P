@@ -22,8 +22,3 @@
 <code><img height="40" src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png"></code>
 <code><img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"></code>
 <code><img height="40" src="https://hysterical.ru/wp-content/uploads/2016/06/page_php.png"></code>
-
-<br/>
-<br/>
-<br/>
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=jalbertsr.jalbertsr" alt="visitor badge" /> </p>
