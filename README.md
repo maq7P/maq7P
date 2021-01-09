@@ -7,7 +7,6 @@
 - 🔭 I’m currently searching a job.
 - 🌱 I’m currently practicing React and learning TypeScript.
 - 💬 Tell me about everything in my socials ☟☟☟
-- ⚡ Fun fact: As a kid, I thought computer contains many animals into itself and 🤣
 
 
 #### 📫 How to reach me:
