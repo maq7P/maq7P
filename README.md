@@ -1,10 +1,10 @@
 ### Hi there 👋
 ---
 
-![](/header_.png)
+![](/me.jpg)
 
 
-- 🔭 I’m currently working at [ManoMano](https://www.manomano.co.uk/) as a Fullstack Developer.
+- 🔭 I’m currently searching a job.
 - 🌱 I’m currently practicing React and learning TypeScript.
 - 💬 Tell me about everything in my socials ☟☟☟
 - ⚡ Fun fact: As a kid, I thought computer contains many animals into itself and 🤣
@@ -19,10 +19,10 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png"></code>
-<code><img height="40" src="https://w1.pngwing.com/pngs/570/557/png-transparent-react-logo-redux-javascript-vuejs-babel-nodejs-npm-web-application.png"></code>
+<code><img height="40" src="https://sledsworth.gallerycdn.vsassets.io/extensions/sledsworth/react-redux-es6-snippets/0.5.3/1530106605209/Microsoft.VisualStudio.Services.Icons.Default"></code>
 <code><img height="40" src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png"></code>
 <code><img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"></code>
-<code><img height="40" src="https://pngimg.com/uploads/php/php_PNG26.png"></code>
+<code><img height="40" src="https://hysterical.ru/wp-content/uploads/2016/06/page_php.png"></code>
 
 <br/>
 <br/>
