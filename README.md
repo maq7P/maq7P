@@ -19,7 +19,7 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
 <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png"></code>
-<code><img height="40" src="https://sledsworth.gallerycdn.vsassets.io/extensions/sledsworth/react-redux-es6-snippets/0.5.3/1530106605209/Microsoft.VisualStudio.Services.Icons.Default"></code>
+<code><img height="40" src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png"></code>
 <code><img height="40" src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png"></code>
 <code><img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png"></code>
 <code><img height="40" src="https://hysterical.ru/wp-content/uploads/2016/06/page_php.png"></code>
