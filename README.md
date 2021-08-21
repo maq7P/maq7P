@@ -4,8 +4,7 @@
 ![](/me.jpg)
 
 
-- 🔭 I’m currently searching a job.
-- 🌱 I’m currently practicing React and learning TypeScript.
+- 🌱 I’m currently practicing NodeJS and learning Docker.
 - 💬 Tell me about everything in my socials ☟☟☟
 
 
